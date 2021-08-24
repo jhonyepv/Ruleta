@@ -1,0 +1,10 @@
+{
+	"name": "Ruleta",
+	"short_name": "Ruleta",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
